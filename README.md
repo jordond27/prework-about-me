@@ -1,4 +1,3 @@
 ## About Me 
 
-* This website is a static HTML website using semantic tags and minimal CSS. 
-* It is currently hosted on Github Pages.
+* This is the first thing I've even done in HTML - a very basic webpage that I was provided the skeleton for
